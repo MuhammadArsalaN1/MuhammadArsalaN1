@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
+<h1 align="center">Hi, I'm Muhammad Arsalan</h1>
 <h3 align="center">PMP® & AWS Certified Technical Project Manager | Software, AI/ML, Cloud & AR/VR </h3>
 
 <p align="center">
