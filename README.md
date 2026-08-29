@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
-<h3 align="center">AI/ML Enthusiast & Full-Stack Software Engineer | Mechanical Design (SolidWorks/Fusion 360) | Exploring VR in Unity</h3>
+<h3 align="center">PMP® & AWS Certified Technical Project Manager | Software, AI/ML, Cloud & AR/VR </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+%7C+MS+Data+Science+(in+progress);Building+full-stack+apps+%26+ERPs;Designing+in+SolidWorks+%2F+Fusion+360;Learning+Unity+%26+VR+development" alt="Typing SVG" />
