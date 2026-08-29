@@ -18,16 +18,20 @@
 
 ---
 
-### 🧠 Who I Am
+### Hi, I'm Muhammad Arsalan
+PMP® & AWS Certified Technical Project Manager | Software, AI/ML, Cloud & AR/VR
 
-I'm a Software Engineer based in Karachi, Pakistan, currently pursuing an MS in Data Science on top of my BS in Software Engineering. I build full-stack web and mobile products end-to-end, design mechanical parts and assemblies in SolidWorks and Fusion 360, and I'm currently branching into VR development with Unity.
+I'm a technology professional with a background in technical project management, full-stack software development, AI/ML, cloud technologies, and AR/VR development. I enjoy building and delivering innovative solutions while combining technical expertise with structured project execution.
 
-- 💻 **Full-Stack Development:** React, TypeScript, React Native, Firebase, Node.js, Supabase
-- 🏭 **Mechanical Design:** SolidWorks, Fusion 360 — CAD modeling, technical assemblies, concept design
-- 🥽 **VR / Unity:** Currently learning Unity for immersive/VR application development
-- 🤖 **AI/ML:** Building foundational knowledge through my MS in Data Science, applying it to future projects
-- 📍 **Based in:** Karachi, Pakistan
+Currently exploring AI/ML, full-stack development, cloud technologies, and AR/VR.
 
+Building projects with modern software technologies and Unity.
+
+AWS Certified with experience in cloud solutions and technical delivery.
+
+Also experienced in mechanical design using SolidWorks and Fusion 360.
+
+PMP® Certified with expertise in Agile/Scrum, stakeholder management, and risk management.
 ---
 
 ### 🔧 Tech Stack
