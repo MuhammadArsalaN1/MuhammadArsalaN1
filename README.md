@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://itcorpinc.com/"><img src="https://img.shields.io/badge/Portfolio-itcorpinc.com-2ea043?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+
   <a href="https://www.linkedin.com/in/muhammadarsalan111/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/ch.arxalan/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
