@@ -54,8 +54,8 @@ I coordinate and ship software end to end — from sprint planning and backlog p
 
 | | Repository | Activity | When |
 |---|---|---|---|
-| ✓ | **Casino-VR** | PR #3 merged: feat/scripting → main | [2 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/3) |
-| ⎇ | **Casino-VR** | PR #3 opened: feat/scripting → main | [2 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/3) |
+| ✓ | **Casino-VR** | PR #3 merged: feat/scripting → main | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/3) |
+| ⎇ | **Casino-VR** | PR #3 opened: feat/scripting → main | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/3) |
 | ⑂ | **Casino-VR** | Created branch feat/scripting | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/tree/feat/scripting) |
 | ⌥ | **Casino-VR** | Pushed to main | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/commits/main) |
 | ✓ | **Casino-VR** | PR #2 merged: XR package added | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/2) |
@@ -68,13 +68,10 @@ I coordinate and ship software end to end — from sprint planning and backlog p
 ## Contribution activity
 
 <div align="center">
-<img src="https://ghchart.rshah.org/6366f1/MuhammadArsalaN1" alt="Muhammad Arsalan's GitHub contribution graph" width="100%"/>
+<img src="./assets/activity.svg" alt="Recent GitHub activity: repo stats and a 21-day event sparkline" width="100%"/>
 </div>
 
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MuhammadArsalaN1&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=8b949e" alt="GitHub stats" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadArsalaN1&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub streak stats" />
-</div>
+<sub>Self-generated from the same GitHub API pull as everything else on this page — no third-party stats widget, so nothing here depends on an external service staying online.</sub>
 
 <br/>
 
@@ -108,7 +105,7 @@ Grouped by domain below. For live filtering, stars/forks, and click-through acti
 
 | Project | Description | Language | Status | Updated |
 |---|---|---|---|---|
-| [Casino-VR](https://github.com/MuhammadArsalaN1/Casino-VR) | Unity/VR project — recent work: XR package added, scripting, project setup | C# | 🟢 Active | 2 hours ago |
+| [Casino-VR](https://github.com/MuhammadArsalaN1/Casino-VR) | Unity/VR project — recent work: XR package added, scripting, project setup | C# | 🟢 Active | 3 hours ago |
 
 ### 3D
 
@@ -144,9 +141,19 @@ Grouped by domain below. For live filtering, stars/forks, and click-through acti
 
 <div align="center">
 
-![](https://img.shields.io/badge/PMP-PMI-0A66C2?style=for-the-badge&logo=projectmanagementinstitute&logoColor=white) ![](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/AWS%20CloudOps%20Engineer-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![](https://img.shields.io/badge/PMP-Project%20Management%20Institute%20(PMI)-0A66C2?style=for-the-badge&logo=projectmanagementinstitute&logoColor=white)](certificates/pmp-project-management-professional.pdf) [![](https://img.shields.io/badge/AWS%20Solutions%20Architect-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](certificates/aws-certified-solutions-architect-associate.pdf) [![](https://img.shields.io/badge/AWS%20CloudOps%20Engineer-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](certificates/aws-certified-cloudops-engineer-associate.pdf)
 
 </div>
+
+| Credential | Issuer | ID | Validity | Links |
+|---|---|---|---|---|
+| Project Management Professional | Project Management Institute (PMI) | `4420925` | Jun 2026 – Jun 2029 | [Verify](https://www.pmi.org/certifications/certification-resources/registry) · [PDF](certificates/pmp-project-management-professional.pdf) |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | `b4cf1e3cb25a434391099348f7c7527b` | Jul 2026 – Jul 2029 | [Verify](https://aws.amazon.com/verification) · [PDF](certificates/aws-certified-solutions-architect-associate.pdf) |
+| AWS Certified CloudOps Engineer – Associate | Amazon Web Services | `df8e221d0eac4dddbbf131951898fb20` | Jul 2026 – Jul 2029 | [Verify](https://aws.amazon.com/verification) · [PDF](certificates/aws-certified-cloudops-engineer-associate.pdf) |
+| AWS Certified Cloud Practitioner | Amazon Web Services | `e2dadccb90364c6585d136dc71ab06ee` | Jul 2026 – Jul 2029 | [Verify](https://aws.amazon.com/verification) · [PDF](certificates/aws-certified-cloud-practitioner.pdf) |
+| Artificial Intelligence Using Python | DigiSkills.pk / Ignite — National Technology Fund | `PATWXUGMK` | Issued Jul 2026 | [Verify](https://digiskills.pk/verify) · [PDF](certificates/ai-using-python-digiskills.pdf) |
+
+<sub>Each credential ID and validation link is copied verbatim from the issuer's certificate — the source PDFs live in <a href="./certificates">/certificates</a> in this repo.</sub>
 
 <br/>
 
