@@ -14,19 +14,17 @@ My work spans **SaaS, web and mobile applications, Unity/VR/AR, 2D and 3D games,
 
 ---
 
-## Projects
+## Projects & Repositories
 
 <!-- PROJECTS:START -->
 
-| Project | Description | Technology | Status | Updated |
-|---|---|---|---|---|
-| Loading from GitHub... | — | — | — | — |
+| Repository | Description | Language | Stars | Status | Updated |
+|---|---|---|---:|---|---|
+| Loading all repositories from GitHub... | — | — | — | — | — |
 
 <!-- PROJECTS:END -->
 
-<sub>
-Project information, technologies, repository activity, stars, forks, and update times are synchronized automatically from GitHub.
-</sub>
+> All public repositories are fetched automatically from GitHub. New repositories will appear here automatically.
 
 ---
 
@@ -34,19 +32,17 @@ Project information, technologies, repository activity, stars, forks, and update
 
 <!-- CURRENTLY_BUILDING:START -->
 
-| Repository | Current Activity | Technology | Last Updated |
-|---|---|---|---|
-| Loading from GitHub... | — | — | — |
+| Repository | Description | Language | Recent Activity | Updated |
+|---|---|---|---|---|
+| Loading from GitHub... | — | — | — | — |
 
 <!-- CURRENTLY_BUILDING:END -->
 
-<sub>
-Automatically determined from my most recent GitHub development activity.
-</sub>
+> Automatically determined from the repositories with the most recent development activity.
 
 ---
 
-## Daily Activity
+## GitHub Activity
 
 <!-- DAILY_ACTIVITY:START -->
 
@@ -55,10 +51,6 @@ Automatically determined from my most recent GitHub development activity.
 | Loading from GitHub... | — | — |
 
 <!-- DAILY_ACTIVITY:END -->
-
-<sub>
-Live public GitHub activity — commits, pushes, pull requests, issues, releases, branches, and repository activity.
-</sub>
 
 ---
 
@@ -72,13 +64,13 @@ Live public GitHub activity — commits, pushes, pull requests, issues, releases
 | Contributions this year | Updating |
 | Contributions last 30 days | Updating |
 | Contributions last 7 days | Updating |
-| Commits / pushes | Updating |
+| Recent commits / pushes | Updating |
 | Pull requests | Updating |
 | Issues | Updating |
 | Stars | Updating |
 | Followers | Updating |
 | Last activity | Updating |
-| Last refresh | Updating |
+| Last synchronization | Updating |
 
 <!-- GITHUB_STATS:END -->
 
@@ -112,57 +104,42 @@ Live public GitHub activity — commits, pushes, pull requests, issues, releases
 
 ### Verification
 
-| Certification | Verify | Certificate |
-|---|---|---|
-| PMP® | [PMI Registry](https://www.pmi.org/certifications/certification-resources/registry) | [PDF](certificates/pmp-project-management-professional.pdf) |
-| AWS Solutions Architect – Associate | [AWS Verification](https://aws.amazon.com/verification) | [PDF](certificates/aws-certified-solutions-architect-associate.pdf) |
-| AWS CloudOps Engineer – Associate | [AWS Verification](https://aws.amazon.com/verification) | [PDF](certificates/aws-certified-cloudops-engineer-associate.pdf) |
-| AWS Cloud Practitioner | [AWS Verification](https://aws.amazon.com/verification) | [PDF](certificates/aws-certified-cloud-practitioner.pdf) |
-| AI Using Python | [DigiSkills Verification](https://digiskills.pk/verify) | [PDF](certificates/ai-using-python-digiskills.pdf) |
+[PMI Verification](https://www.pmi.org/certifications/certification-resources/registry) · [AWS Verification](https://aws.amazon.com/verification) · [DigiSkills Verification](https://digiskills.pk/verify)
 
 ---
 
 ## Areas of Interest
 
-| Area | Focus |
-|---|---|
-| AI & Data Science | Artificial intelligence, machine learning, data analysis and automation |
-| Cloud | AWS, cloud architecture and cloud-native applications |
-| SaaS | Scalable software products and business platforms |
-| Unity | Games, interactive applications and simulations |
-| XR | Virtual Reality, Augmented Reality and Mixed Reality |
-| Games | 2D, 3D and mobile game development |
-| Digital Twins | Industrial visualization and simulation |
-| Mobile | React Native and cross-platform applications |
-| 3D Engineering | Mechanical, industrial and CAD-based design |
-| Product Design | Consumer products and technology-enabled products |
+**AI & Data Science** · **Cloud & AWS** · **SaaS** · **Unity & Game Development** · **VR / AR / MR** · **Digital Twins** · **Mobile Applications** · **3D Engineering** · **Product Design** · **Automation**
 
 ---
 
-## Development Focus
+## GitHub Synchronization
 
-```text
-Software
-├── SaaS
-├── Web Applications
-├── Mobile Applications
-└── Backend Systems
+<!-- SYNC_STATUS:START -->
 
-Immersive Technology
-├── Unity
-├── VR
-├── AR
-├── MR
-└── Digital Twins
+| Data | Source | Sync |
+|---|---|---|
+| All public repositories | GitHub API | Automatic |
+| Repository descriptions | GitHub API | Automatic |
+| Repository languages | GitHub API | Automatic |
+| Repository stars | GitHub API | Automatic |
+| Repository forks | GitHub API | Automatic |
+| Repository status | GitHub API + manual override | Automatic |
+| Repository updates | GitHub API | Automatic |
+| Current projects | GitHub activity | Automatic |
+| Daily activity | GitHub Events API | Automatic |
+| Contributions | GitHub GraphQL API | Automatic |
+| Profile statistics | GitHub API | Automatic |
 
-AI & Data
-├── Python
-├── Data Science
-├── Machine Learning
-└── Automation
+<!-- SYNC_STATUS:END -->
 
-Engineering
-├── Mechanical Design
-├── Industrial Design
-├── 3D CAD
-└── Product Development
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/muhammadarsalan111/) · [GitHub](https://github.com/MuhammadArsalaN1) · [Email](mailto:YOUR_EMAIL)
+
+---
+
+<sub>Living profile · Automatically synchronized with GitHub</sub>
