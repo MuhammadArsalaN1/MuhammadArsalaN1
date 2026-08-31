@@ -1,145 +1,163 @@
 # Muhammad Arsalan
 
-**Software · Cloud · AI · Unity · XR · 3D**
+**Technical Project Management · Software · Cloud · AI · Unity · XR · 3D**
 
-Karachi, Pakistan · [LinkedIn](https://www.linkedin.com/in/muhammadarsalan111/) · [Email](mailto:YOUR_EMAIL)
+Karachi, Pakistan · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
 
 ---
 
 ## About
 
-I build software, games, immersive applications, AI/data solutions, and 3D engineering products.
+I work at the intersection of **technology, project delivery, product development, and engineering**.
 
-My work spans **SaaS, web and mobile applications, Unity/VR/AR, 2D and 3D games, Python/AI, cloud systems, industrial simulation, digital twins, and product design**.
+My technical background spans **software applications, SaaS, cloud computing, AI and data, mobile development, Unity, game development, VR/AR/MR, industrial simulation, 3D engineering, and product design**.
+
+I enjoy turning complex requirements into structured, practical, and scalable solutions while working across technical teams, products, and stakeholders.
 
 ---
 
-## Projects & Repositories
+## What I've Built
 
+```text
+Technology & Product Development
+│
+├── Software
+│   ├── SaaS Applications
+│   ├── Web Applications
+│   ├── Mobile Applications
+│   └── Backend Systems
+│
+├── AI & Data
+│   ├── Python
+│   ├── Data Science
+│   ├── Machine Learning
+│   └── Automation
+│
+├── Unity & Interactive
+│   ├── 2D Games
+│   ├── 3D Games
+│   ├── Mobile Games
+│   └── Interactive Applications
+│
+├── Extended Reality
+│   ├── Virtual Reality
+│   ├── Augmented Reality
+│   ├── Mixed Reality
+│   └── Digital Twins
+│
+└── Engineering & Design
+    ├── Mechanical Design
+    ├── Industrial Design
+    ├── 3D CAD
+    └── Product Development
+
+What I'm Building
+Current Focus
+│
+├── Software & SaaS
+├── AI & Data Applications
+├── Unity / VR / AR Experiences
+├── 2D & 3D Games
+└── 3D Engineering & Product Design
+
+Current development activity and recently updated projects can be synchronized automatically from GitHub.
+
+Recent Projects
 <!-- PROJECTS:START -->
-
-| Repository | Description | Language | Stars | Status | Updated |
-|---|---|---|---:|---|---|
-| Loading all repositories from GitHub... | — | — | — | — | — |
-
+Project	Description	Technology	Status
+Casino-VR	Unity-based virtual reality application	Unity · C# · VR	Active
+HRMS	Human resource management system	React · TypeScript · Firebase	Maintained
+khataBook	Personal finance management application	React Native · TypeScript	Maintained
+Fusion360-Techincal-work	Mechanical and 3D engineering work	Fusion 360	Maintained
+ERP-Goat-Management-system-	Management and business application	Software	Maintained
+Linear-Cleaning-System	Product engineering and system concept	Engineering · Product Design	Active
 <!-- PROJECTS:END -->
+Project Focus
+Area	Focus
+Software	SaaS, web applications, mobile applications and backend systems
+Cloud	AWS architecture, cloud applications and infrastructure
+AI & Data	Python, AI, data science and automation
+Unity	Interactive applications, games and simulations
+XR	VR, AR, MR and immersive experiences
+Engineering	Mechanical, industrial and 3D design
+Products	Consumer product concepts and development
+Technology
+Languages
+├── Python
+├── JavaScript
+├── TypeScript
+├── C#
+└── SQL
 
-> All public repositories are fetched automatically from GitHub. New repositories will appear here automatically.
+Software
+├── React
+├── React Native
+├── Node.js
+├── PostgreSQL
+└── REST APIs
 
----
+Cloud
+└── AWS
 
-## Currently Building
+AI & Data
+├── Python
+├── Data Science
+├── Machine Learning
+└── Automation
 
-<!-- CURRENTLY_BUILDING:START -->
+Unity & XR
+├── Unity
+├── VR
+├── AR
+├── MR
+├── 2D
+└── 3D
 
-| Repository | Description | Language | Recent Activity | Updated |
-|---|---|---|---|---|
-| Loading from GitHub... | — | — | — | — |
+3D & Engineering
+├── Fusion 360
+├── Rhinoceros
+├── Gemvision Matrix
+└── ZBrush
+Certifications
+Certification	Issuer	Credential ID	Validity
+Project Management Professional (PMP®)	Project Management Institute	4420925	Jun 2026 – Jun 2029
+AWS Certified Solutions Architect – Associate	Amazon Web Services	b4cf1e3cb25a434391099348f7c7527b	Jul 2026 – Jul 2029
+AWS Certified CloudOps Engineer – Associate	Amazon Web Services	df8e221d0eac4dddbbf131951898fb20	Jul 2026 – Jul 2029
+AWS Certified Cloud Practitioner	Amazon Web Services	e2dadccb90364c6585d136dc71ab06ee	Jul 2026 – Jul 2029
+Artificial Intelligence Using Python	DigiSkills.pk / Ignite	PATWXUGMK	Jul 2026
+Verification
+PMI Certification Registry
+AWS Certification Verification
+DigiSkills Verification
+Areas of Interest
 
-<!-- CURRENTLY_BUILDING:END -->
+AI & Data Science
+Artificial intelligence, machine learning, data analysis, automation and intelligent applications.
 
-> Automatically determined from the repositories with the most recent development activity.
+Cloud & SaaS
+AWS, scalable cloud applications, SaaS platforms and digital products.
 
----
+Unity & XR
+Unity development, VR, AR, MR, games, simulations and immersive applications.
 
-## GitHub Activity
+Engineering & Product Design
+3D CAD, mechanical design, industrial design, product development and digital engineering.
 
-<!-- DAILY_ACTIVITY:START -->
+How I Approach Projects
+Understand
+    ↓
+Requirements
+    ↓
+Plan
+    ↓
+Design
+    ↓
+Build
+    ↓
+Test
+    ↓
+Deliver
+    ↓
+Improve
 
-| Time | Activity | Repository |
-|---|---|---|
-| Loading from GitHub... | — | — |
-
-<!-- DAILY_ACTIVITY:END -->
-
----
-
-## GitHub Overview
-
-<!-- GITHUB_STATS:START -->
-
-| Metric | Value |
-|---|---:|
-| Public repositories | Updating |
-| Contributions this year | Updating |
-| Contributions last 30 days | Updating |
-| Contributions last 7 days | Updating |
-| Recent commits / pushes | Updating |
-| Pull requests | Updating |
-| Issues | Updating |
-| Stars | Updating |
-| Followers | Updating |
-| Last activity | Updating |
-| Last synchronization | Updating |
-
-<!-- GITHUB_STATS:END -->
-
----
-
-## Technology
-
-| Area | Technologies |
-|---|---|
-| Languages | Python · JavaScript · TypeScript · C# · SQL |
-| Web | React · Node.js · HTML · CSS |
-| Mobile | React Native |
-| Cloud | AWS |
-| AI / Data | Python · AI · Data Science · Machine Learning |
-| Games / XR | Unity · C# · VR · AR · MR · 2D · 3D |
-| 3D / Engineering | Fusion 360 · Rhinoceros · Gemvision Matrix · ZBrush |
-| Database | PostgreSQL |
-| Tools | Git · GitHub |
-
----
-
-## Certifications
-
-| Certification | Issuer | Credential ID | Validity |
-|---|---|---|---|
-| **PMP®** | Project Management Institute | `4420925` | Jun 2026 – Jun 2029 |
-| **AWS Solutions Architect – Associate** | Amazon Web Services | `b4cf1e3cb25a434391099348f7c7527b` | Jul 2026 – Jul 2029 |
-| **AWS CloudOps Engineer – Associate** | Amazon Web Services | `df8e221d0eac4dddbbf131951898fb20` | Jul 2026 – Jul 2029 |
-| **AWS Cloud Practitioner** | Amazon Web Services | `e2dadccb90364c6585d136dc71ab06ee` | Jul 2026 – Jul 2029 |
-| **AI Using Python** | DigiSkills / Ignite | `PATWXUGMK` | Jul 2026 |
-
-### Verification
-
-[PMI Verification](https://www.pmi.org/certifications/certification-resources/registry) · [AWS Verification](https://aws.amazon.com/verification) · [DigiSkills Verification](https://digiskills.pk/verify)
-
----
-
-## Areas of Interest
-
-**AI & Data Science** · **Cloud & AWS** · **SaaS** · **Unity & Game Development** · **VR / AR / MR** · **Digital Twins** · **Mobile Applications** · **3D Engineering** · **Product Design** · **Automation**
-
----
-
-## GitHub Synchronization
-
-<!-- SYNC_STATUS:START -->
-
-| Data | Source | Sync |
-|---|---|---|
-| All public repositories | GitHub API | Automatic |
-| Repository descriptions | GitHub API | Automatic |
-| Repository languages | GitHub API | Automatic |
-| Repository stars | GitHub API | Automatic |
-| Repository forks | GitHub API | Automatic |
-| Repository status | GitHub API + manual override | Automatic |
-| Repository updates | GitHub API | Automatic |
-| Current projects | GitHub activity | Automatic |
-| Daily activity | GitHub Events API | Automatic |
-| Contributions | GitHub GraphQL API | Automatic |
-| Profile statistics | GitHub API | Automatic |
-
-<!-- SYNC_STATUS:END -->
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/muhammadarsalan111/) · [GitHub](https://github.com/MuhammadArsalaN1) · [Email](mailto:YOUR_EMAIL)
-
----
-
-<sub>Living profile · Automatically synchronized with GitHub</sub>
+I focus on clear requirements, structured execution, technical quality, collaboration, and continuous improvement.
