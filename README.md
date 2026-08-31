@@ -1,602 +1,447 @@
 <div align="center">
 
-# Muhammad Arsalan
+# 🧠 Muhammad Arsalan
 
-**Senior Technical Project Manager | Full-Stack Software Engineer | Technical Project Coordinator**
+**Software Engineer • Project Manager • Technical Architect**
 
-Delivering 500+ successful client engagements across software development, AR/VR, Unity, web applications, and digital solutions. PMP® certified with 5+ years of proven experience managing complex technical projects and engineering high-performance teams.
+Building software. Managing complexity. Delivering impact.
 
-[LinkedIn](https://linkedin.com/in/muhammadarsalan) • [Portfolio](https://arsalanportfolio.com) • [Email](mailto:itcorpclaude@gmail.com) • [GitHub](https://github.com/MuhammadArsalaN1)
+[GitHub](https://github.com/MuhammadArsalaN1) • [LinkedIn](https://linkedin.com/in/muhammadarsalan) • [Portfolio](https://arsalanportfolio.com) • [Email](mailto:itcorpclaude@gmail.com)
 
 ---
 
 </div>
 
-## 🚀 Professional Overview
+## 📊 Engineering Dashboard
 
-I am a **Technical Project Manager** and **Full-Stack Software Engineer** with expertise in bridging the gap between business requirements and technical execution. Over 5+ years, I've successfully managed and delivered **500+ client engagements** for international clients across the US, UK, Europe, and Middle East.
-
-My unique value: **Deep technical understanding combined with strategic project leadership**, enabling me to scope requirements accurately, manage risks proactively, and deliver projects on time and within scope.
-
-### Core Competencies
-
-- **Technical Project Management**: Agile, Scrum, Kanban, sprint planning, backlog prioritization, risk & resource management
-- **Full-Stack Development**: React, Node.js, TypeScript, Python, Firebase, Supabase, PostgreSQL, AWS
-- **AR/VR & Game Development**: Unity, C#, VR/XR applications, digital twins, immersive solutions
-- **Cloud & DevOps**: AWS (Solutions Architect, CloudOps), CI/CD, serverless architecture, Docker
-- **Client Management**: 500+ international client engagements, stakeholder coordination, requirement gathering
-- **Quality Assurance**: Process documentation, QA coordination, delivery tracking, compliance management
-
----
-
-## 📊 Professional Impact & Metrics
+<div align="center">
 
 | Metric | Value |
 |--------|-------|
-| **Client Engagements Managed** | 500+ successfully delivered projects |
-| **Years of Experience** | 5+ years (Project Management, Engineering, Operations) |
-| **Geographic Reach** | US, UK, Europe, Middle East, Asia-Pacific |
-| **PMP® Certified** | Jun 2026 – Jun 2029 |
-| **AWS Certified** | Solutions Architect, CloudOps Engineer, Cloud Practitioner |
-| **Project Success Rate** | 98%+ on-time, within-scope delivery |
-| **Team Coordination** | 50+ developers, designers, QA engineers |
-| **Active Technologies** | 40+ programming languages and frameworks |
+| **Projects Managed** | 500+ |
+| **Active Repositories** | [View](https://github.com/MuhammadArsalaN1?tab=repositories) |
+| **Tech Domains** | Web • Mobile • Unity • AR/VR • Cloud • 3D |
+| **Geographic Reach** | US • UK • EU • MENA • APAC |
+| **GitHub Contributions** | [View Activity](https://github.com/MuhammadArsalaN1) |
+
+</div>
 
 ---
 
-## 🏆 Certifications & Professional Achievements
+## 🧬 Engineering Ecosystem
+                    SOFTWARE ENGINEERING
+                           ↑
+                     ╱─────┼─────╲
+                    ╱      │      ╲
+                   ╱       │       ╲
+               WEB      MOBILE    BACKEND
+              (React)  (React      (Node.js
+             Next.js)   Native)     APIs)
+                │         │          │
+                └─────┬───┴────┬────┘
+                      │        │
+                  ┌───┴────────┴───┐
+                  │  ARCHITECTURE  │
+                  │    & DESIGN    │
+                  └───┬────────┬───┘
+                      │        │
+                      ↓        ↓
+                INTERACTIVE   CLOUD
+                (Unity/VR/AR) (AWS)
+                      │        │
+                      └─────┬──┘
+                            │
+                      ╔═════╩═════╗
+                      ║ MUHAMMAD   ║
+                      ║ ARSALAN    ║
+                      ╚═════╦═════╝
+                            │
+                ┌───────────┼───────────┐
+                │           │           │
+                ↓           ↓           ↓
+          TECHNICAL    PROJECT      QUALITY &
+          LEADERSHIP   DELIVERY     RELIABILITY
+          (Architecture) (Agile/    (Testing/
+          (Scrum/        Scrum/     DevOps)
+          Planning)      Coordination)
+                │           │           │
+                └─────┬─────┴─────┬────┘
+                      │           │
+                      ↓           ↓
+                STAKEHOLDER    CONTINUOUS
+                MANAGEMENT     IMPROVEMENT
+               (500+ clients)  (Metrics/Growth)
 
-✓ Project Management Professional (PMP)®
-Issued: June 2026 | Valid: Jun 2026 – Jun 2029
-Project Management Institute
 
-✓ AWS Certified Solutions Architect – Associate
-Issued: July 2026 | Valid: Jul 2026 – Jul 2029
-Amazon Web Services
 
-✓ AWS Certified CloudOps Engineer – Associate
-Issued: July 2026 | Valid: Jul 2026 – Jul 2029
-Amazon Web Services
+---
 
-✓ AWS Certified Cloud Practitioner
-Issued: July 2026 | Valid: Jul 2026 – Jul 2029
-Amazon Web Services
+## 🚀 What I'm Building
 
-✓ AI/ML Fundamentals Certification
-Issued: July 2026
-PIAIC & DigiSkills Training Program
+### Current Focus
 
-✓ MS Data Science (In Progress)
-Muhammad Ali Jinnah University
-Expected Completion: 2026
+**Web Development** — React, TypeScript, Next.js, Supabase  
+Building scalable SaaS platforms with modern frontend architecture.
+
+**Cloud & DevOps** — AWS, Docker, CI/CD, Serverless  
+Architecting cloud-native solutions for production performance.
+
+**AR/VR & Interactive** — Unity, C#, Digital Twins  
+Creating immersive solutions across VR training, AR applications, and digital twins.
+
+**Enterprise Systems** — ERP, CRM, HR Management  
+Designing large-scale systems for complex business operations.
+
+**Project Delivery** — Agile, Scrum, Technical Coordination  
+Managing 500+ projects from requirements through production delivery.
+
+---
+
+## 📁 Project Ecosystem
+
+### 🌐 Web & SaaS Applications
+
+**KaamFlow** — Workforce & Task Management  
+- Tech: React, TypeScript, Supabase, PostgreSQL, AWS
+- Status: Production | 500+ Active Users | 99.9% Uptime
+- [Repository](https://github.com/MuhammadArsalaN1/kaamflow)
+
+**HRMS** — Human Resource Management System  
+- Tech: React, TypeScript, Firebase, Material UI, Node.js
+- Status: Production | 1,000+ Employees | 95% Process Automation
+- [Repository](https://github.com/MuhammadArsalaN1/hrms)
+
+**Lead Management System** — CRM Dashboard  
+- Tech: React, Firebase, Material UI
+- Status: Production | 200+ Users | 40% Higher Close Rate
+- [Repository](https://github.com/MuhammadArsalaN1/lead-crm)
+
+**Family Expense Manager** — Multi-user Finance Platform  
+- Tech: React, Firebase, Chart.js
+- Status: Production | 1,000+ Active Users
+- [Repository](https://github.com/MuhammadArsalaN1/family-expenses)
+
+### 🏭 Enterprise & Industry-Specific
+
+**ERP Goat Management System** — Agricultural Operations Platform  
+- Tech: React, TypeScript, Material UI, Firebase, Node.js, React Native
+- Status: Production | 50+ Active Farms | 30% Efficiency Gain
+- Modules: Animal records • Breeding • Production • Financials • Mobile app
+- [Repository](https://github.com/MuhammadArsalaN1/goat-erp)
+
+### 🎮 Unity & Interactive
+
+**VR Training Simulations** — Immersive Learning Platform  
+- Tech: Unity, C#, Oculus/Meta VR
+- Status: Production | Multiple Industries
+- Applications: Healthcare • Manufacturing • Safety Training
+
+**AR Applications** — Augmented Reality Solutions  
+- Tech: Unity, ARKit/ARCore
+- Status: Active Development
+- Use Cases: Product visualization • Navigation • Industrial inspection
+
+**Digital Twin Solutions** — Real-time Digital Replicas  
+- Tech: Unity, C#, Real-time data integration
+- Status: Active Projects
+- Applications: Manufacturing • Smart facilities • Training
+
+### 🛠️ Backend & Infrastructure
+
+**REST APIs** — High-performance backend services  
+- Tech: Node.js, Express, PostgreSQL, MongoDB, GraphQL
+- Pattern: Microservices, serverless (AWS Lambda)
+
+**Cloud Infrastructure** — AWS-based systems  
+- Tech: EC2, S3, Lambda, RDS, CloudFront
+- Focus: Scalability, reliability, security
+
+**Database Design** — Complex data architectures  
+- Tech: PostgreSQL, MongoDB, Firebase Firestore
+- Specialization: Multi-tenant systems, row-level security
+
+### 📐 Design & CAD
+
+**Mechanical Engineering** — Technical design & modeling  
+- Software: SolidWorks, Fusion 360, AutoCAD
+- Focus: Product design, component engineering, precision modeling
+
+---
+
+## 💾 Featured Repository Showcase
+
+<table>
+<tr>
+<td width="50%">
+
+### KaamFlow
+**Workforce Management Platform**
+- React | TypeScript | Supabase
+- Production | 500+ users
+- ⭐ [View](https://github.com/MuhammadArsalaN1/kaamflow)
+
+</td>
+<td width="50%">
+
+### HRMS
+**HR Management System**
+- React | Firebase | Material UI
+- Production | 1,000+ employees
+- ⭐ [View](https://github.com/MuhammadArsalaN1/hrms)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ERP Goat
+**Agricultural ERP**
+- React | TypeScript | Firebase
+- Production | 50+ farms
+- ⭐ [View](https://github.com/MuhammadArsalaN1/goat-erp)
+
+</td>
+<td width="50%">
+
+### Lead CRM
+**Sales Management**
+- React | Firebase | Charts
+- Production | 200+ users
+- ⭐ [View](https://github.com/MuhammadArsalaN1/lead-crm)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Universe
+
+### Languages
+JavaScript TypeScript Python C# Java Go SQL Solidity
+
+
+### Frontend Architecture
+React Next.js Vue.js Angular Tailwind CSS Material UI Redux GraphQL
+
+
+### Backend & APIs
+Node.js Express Python (Django/Flask) GraphQL REST APIs Microservices
+
+
+### Databases & Data
+PostgreSQL MongoDB Firebase Supabase MySQL Redis Elasticsearch
+
+
+### Cloud & DevOps
+AWS (EC2 • S3 • Lambda • RDS • CloudFront) Docker GitHub Actions CI/CD Linux
+
+
+### Interactive & 3D
+Unity C# VR Development AR Development Blender 3D Modeling Digital Twins
+
+
+### Design & Engineering
+SolidWorks Fusion 360 AutoCAD Figma Adobe XD CAD Modeling
+
+
+### Project & Team Management
+Agile Scrum Kanban SAFe Git GitHub Jira Asana Linear Sprint Planning
 
 
 ---
 
-## 💼 Professional Experience
+## ⚡ How I Work
+REQUIREMENTS
+↓
+[Understand scope, constraints, risks]
+↓
+ARCHITECTURE
+↓
+[Design system, define APIs, plan infrastructure]
+↓
+DEVELOPMENT
+↓
+[Build features, write tests, optimize performance]
+↓
+COORDINATION
+↓
+[Team sync, client updates, risk management, QA handoff]
+↓
+TESTING & QA
+↓
+[Automated testing, manual QA, UAT, bug fixes]
+↓
+DELIVERY
+↓
+[Production deployment, monitoring, documentation]
+↓
+CONTINUOUS IMPROVEMENT
+↓
+[Metrics, retrospectives, optimization, growth]
 
-### **Project Coordinator** — IT Corp Inc
-*Karachi, Pakistan | January 2021 – Present*
 
-**Responsibilities & Impact:**
-- **Manage end-to-end delivery** of concurrent software, VR/Unity, and management-system projects
-- **Lead sprint planning & backlog prioritization** for 5+ simultaneous projects with 40+ developers
-- **Coordinate cross-functional teams**: developers, designers, QA, DevOps, and product managers
-- **Serve as communication hub** between clients and technical teams, ensuring alignment and satisfaction
-- **Maintain comprehensive documentation**: technical specs, risk logs, QA checkpoints, delivery processes
-- **Manage project timelines, resources, priorities**: tracking dependencies and mitigating delays
-- **Oversee QA coordination** with 15+ QA engineers; ensure 99%+ bug-free deployments
+### Core Capabilities
 
-**Key Achievements:**
-- Delivered 50+ projects with 98% on-time completion rate
-- Reduced project delivery time by 25% through process optimization
-- Managed $2M+ in project budgets with zero overruns
-- Mentored 10+ junior project coordinators
-
----
-
-### **Freelance Project Manager** — International Clients
-*Remote | September 2019 – Present*
-
-**Responsibilities & Impact:**
-- **Managed 500+ client engagements** across diverse industries and project types
-- **Coordinated international clients** from US, UK, Europe, Middle East, and Asia-Pacific
-- **Owned full project lifecycle**: requirements → scoping → delivery → client sign-off
-- **Managed projects spanning**:
-  - **Web & Mobile Applications**: React, Next.js, React Native, TypeScript
-  - **3D Jewelry Design**: SolidWorks, Fusion 360, CAD modeling
-  - **Unity Development**: Game development, VR/AR experiences, digital twins
-  - **VR/XR Applications**: Immersive training simulations, virtual environments
-  - **Digital Solutions**: SaaS platforms, startup MVPs, enterprise software
-- **Tracked scope, timelines, revisions, milestones, communication**: ensuring client satisfaction
-- **Built custom Project Management System** using React, Firebase, and Supabase to improve operational visibility
-
-**Key Achievements:**
-- 4.9/5.0 average client rating across 500+ engagements
-- $1M+ in total project value managed
-- 95%+ client retention and repeat business rate
-- Successfully scaled from solo freelancer to coordinating 20+ contractors
+**Technical Leadership** — Architecture design, technical decision-making, mentoring  
+**Project Management** — Sprint planning, backlog management, risk mitigation  
+**Client Coordination** — Requirements gathering, stakeholder management, communication  
+**Quality Assurance** — Testing strategy, QA coordination, compliance  
+**DevOps & Infrastructure** — Cloud architecture, CI/CD, monitoring, scaling  
+**Team Development** — Engineering mentorship, process improvement, culture  
 
 ---
 
-### **Business Development Manager** — HYBRIDS SOLUTION
-*Remote | July 2026 – Present*
-
-**Responsibilities & Impact:**
-- **Drive B2B business development** for Unity3D, AR/VR/MR development studio
-- **Generate and manage opportunities** for AR/VR applications, VR training, digital twins
-- **Develop client pipelines** across manufacturing, healthcare, construction, oil & gas, aviation
-- **Scope client requirements** and position technical solutions
-- **Coordinate with engineering teams** to translate business needs into technical scope
-
-**Key Achievements:**
-- Established presence in 5 new industry verticals
-- $500K+ in qualified pipeline in first quarter
-
----
-
-### **Backend Development Intern** — XR Devs (DevXR)
-*Remote | February 2025 – June 2025*
-
-**Responsibilities & Impact:**
-- **Built and maintained backend functionality** and REST APIs
-- **Focused on production features**: performance optimization, security hardening, reliability
-- **Collaborated with cross-functional teams** in Agile/Scrum environments
-- **Optimized database queries** and resolved technical bottlenecks
-- **Implemented CI/CD pipelines** for automated testing and deployment
-
-**Key Achievements:**
-- Improved API response time by 40% through query optimization
-- Built 3 microservices handling 100K+ requests/day
-- Zero production incidents during tenure
-
----
-
-### **Operations Manager** — Umason Logistic Inc
-*Karachi, Pakistan | February 2020 – January 2021*
-
-**Responsibilities & Impact:**
-- **Managed daily operations** for US-focused trucking and logistics company
-- **Coordinated dispatch, route planning, and shipment scheduling**
-- **Resolved real-time operational bottlenecks** and delivery issues
-- **Managed stakeholder communication** during high-volume operational periods
-- **Applied structured planning**: escalation management, resource sequencing, contingency planning
-
-**Key Achievements:**
-- Reduced delivery delays by 30% through route optimization
-- Managed 200+ shipments/week with zero incidents
-- Improved customer satisfaction from 85% to 96%
-
----
-
-## 🛠️ Technical Stack & Expertise
-
-### **Languages & Frameworks**
-
-**Web Development**
-- **Frontend**: JavaScript (ES6+), TypeScript, React, Next.js, Vue.js, Angular
-- **Backend**: Node.js, Express, Python (Django, Flask), Java, C#
-- **Languages**: JavaScript, TypeScript, Python, C#, Java, Go, SQL
-
-**Desktop & Mobile**
-- **React Native**: Cross-platform mobile applications
-- **Electron**: Desktop applications
-- **Swift**: iOS native development (basic)
-
-### **Frontend Technologies**
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| React | Expert | 5+ years, 30+ projects |
-| TypeScript | Advanced | 3+ years, 20+ projects |
-| Next.js | Advanced | 2+ years, 15+ projects |
-| Tailwind CSS | Advanced | 3+ years, 25+ projects |
-| Material UI | Advanced | 2+ years, 10+ projects |
-| Vue.js | Intermediate | 1+ years, 5+ projects |
-| Angular | Intermediate | 1+ years, 3+ projects |
-
-### **Backend & Database Technologies**
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| Node.js | Expert | 5+ years, 40+ projects |
-| PostgreSQL | Advanced | 4+ years, 35+ projects |
-| Firebase | Advanced | 4+ years, 30+ projects |
-| Supabase | Advanced | 2+ years, 15+ projects |
-| MongoDB | Intermediate | 2+ years, 10+ projects |
-| GraphQL | Intermediate | 1+ years, 5+ projects |
-| REST APIs | Expert | 5+ years, 50+ projects |
-
-### **Cloud & DevOps**
-
-| Technology | Proficiency | Certification |
-|------------|-------------|---|
-| AWS EC2 | Advanced | ✓ Solutions Architect |
-| AWS S3 | Advanced | ✓ CloudOps Engineer |
-| AWS Lambda | Advanced | ✓ CloudOps Engineer |
-| AWS RDS | Advanced | ✓ Solutions Architect |
-| Docker | Advanced | — |
-| GitHub Actions | Advanced | — |
-| CI/CD Pipelines | Advanced | — |
-| Linux & Unix | Advanced | — |
-
-### **AR/VR & Game Development**
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| Unity | Advanced | 3+ years, 15+ projects |
-| C# (Game Dev) | Advanced | 3+ years, 15+ projects |
-| VR Development | Advanced | 2+ years, 8+ VR projects |
-| AR Development | Advanced | 2+ years, 6+ AR projects |
-| 3D Modeling | Intermediate | — |
-| Blender | Intermediate | — |
-
-### **Design & CAD**
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| SolidWorks | Advanced | 4+ years, 50+ designs |
-| Fusion 360 | Advanced | 2+ years, 20+ designs |
-| AutoCAD | Intermediate | 1+ year, 8+ designs |
-| Figma | Advanced | 2+ years, 30+ projects |
-| Adobe XD | Intermediate | 1+ year, 10+ projects |
-
-### **Project Management & Tools**
-
-| Tool | Proficiency | Experience |
-|------|-------------|------------|
-| Jira | Expert | 5+ years, 50+ projects |
-| Asana | Advanced | 3+ years, 30+ projects |
-| Monday.com | Advanced | 2+ years, 20+ projects |
-| Trello | Advanced | 5+ years, 40+ projects |
-| GitHub | Expert | 5+ years |
-| Git | Expert | 5+ years |
-| Linear | Advanced | 1+ year, 10+ projects |
-
-### **Methodologies & Frameworks**
-
-- ✓ **Agile/Scrum**: 5+ years, 50+ projects
-- ✓ **Kanban**: 3+ years, 20+ projects
-- ✓ **SAFe (Scaled Agile Framework)**: Foundations knowledge
-- ✓ **Waterfall**: 2+ years (legacy projects)
-- ✓ **SDLC (Software Development Lifecycle)**: Expert
-- ✓ **Risk Management**: PMP-certified
-- ✓ **Stakeholder Management**: 500+ client touchpoints
-
----
-
-## 📂 Featured Projects & Portfolio
-
-### **1. KaamFlow — Workforce & Task Management Platform**
-
-**Overview**: Role-based workforce management platform designed for managers and employees with comprehensive task tracking, attendance monitoring, and productivity analytics.
-
-**Tech Stack**: React, TypeScript, Supabase, PostgreSQL, AWS (EC2, S3), Node.js  
-**Project Type**: Full-Stack SaaS Application  
-**Timeline**: 4 months | **Team**: 3 developers, 1 QA  
-**Status**: Production
-
-**Key Features**:
-- Role-based access control and permissions management
-- Real-time task assignment and tracking
-- Attendance management with geolocation verification
-- Productivity tracking and analytics dashboard
-- Row-Level Security (RLS) for data isolation
-- Multi-user data isolation and cloud deployment
-- RESTful API backend with PostgreSQL
-- Responsive React frontend with Material UI
-- Automated notifications and alerts
-
-**Impact**:
-- 500+ active users
-- 99.9% uptime on AWS
-- 40% improvement in team productivity
-- Zero security incidents
-
-**Repository**: [KaamFlow GitHub](https://github.com/MuhammadArsalaN1/kaamflow)
-
----
-
-### **2. HRMS — Human Resource Management System**
-
-**Overview**: Enterprise-style HR management platform covering comprehensive employee operations, attendance tracking, leave management, payroll processing, and recruitment.
-
-**Tech Stack**: React, TypeScript, Firebase, Material UI, Node.js, Express  
-**Project Type**: Enterprise Application  
-**Timeline**: 5 months | **Team**: 4 developers, 2 QA, 1 DevOps  
-**Status**: Production
-
-**Modules Implemented**:
-- **Employee Management**: Complete employee database, profiles, documents
-- **Attendance System**: Clock in/out, attendance reports, overtime tracking
-- **Leave Management**: Leave requests, approval workflows, balance tracking
-- **Payroll**: Salary calculation, tax deductions, payslip generation
-- **Recruitment**: Job postings, applicant tracking, interview scheduling
-- **Analytics Dashboard**: Real-time HR metrics and reports
-- **Role-Based Access**: Admin, Manager, Employee roles with specific permissions
-
-**Impact**:
-- Managing 1,000+ employees across 10 departments
-- 95% reduction in manual HR processing time
-- 99.5% data accuracy in payroll processing
-- Zero compliance violations
-
-**Repository**: [HRMS GitHub](https://github.com/MuhammadArsalaN1/hrms)
-
----
-
-### **3. ERP Goat Management System**
-
-**Overview**: Comprehensive ERP platform specifically designed for goat farming operations, enabling efficient management of animal records, breeding cycles, production tracking, and financial management.
-
-**Tech Stack**: React, TypeScript, Material UI, Firebase, Node.js  
-**Project Type**: Industry-Specific ERP  
-**Timeline**: 6 months | **Team**: 5 developers, 2 QA  
-**Status**: Production
-
-**Core Modules**:
-- **Animal Records Management**: Breeding history, health records, genetic information
-- **Breeding Management**: Breeding cycles, pregnancy tracking, genetic pairing optimization
-- **Pregnancy Tracking**: Due dates, monitoring, birthing records
-- **Milk Production**: Daily production logs, quality tracking, revenue analytics
-- **Feed Inventory**: Stock management, consumption tracking, cost optimization
-- **Financial Management**: Revenue, expenses, profit analysis, forecasting
-- **Reporting & Analytics**: Comprehensive dashboards and custom reports
-- **Mobile App**: React Native companion app for on-field data entry
-
-**Impact**:
-- 50+ active farms
-- 30% increase in milk production efficiency
-- $100K+ cumulative revenue improvement for users
-- 99.8% data integrity
-
-**Repository**: [ERP Goat Management GitHub](https://github.com/MuhammadArsalaN1/goat-erp)
-
----
-
-### **4. Lead Management System — CRM Dashboard**
-
-**Overview**: Custom sales pipeline and CRM platform designed to improve lead visibility, follow-up management, and real-time KPI monitoring for B2B sales teams.
-
-**Tech Stack**: React, Firebase, Material UI, Node.js  
-**Project Type**: SaaS (CRM)  
-**Timeline**: 3 months | **Team**: 2 developers, 1 QA  
-**Status**: Production
-
-**Features**:
-- **Lead Scoring**: Automated lead qualification based on engagement
-- **Sales Pipeline Management**: Drag-and-drop pipeline stages
-- **Follow-up Tracking**: Automated reminders and follow-up scheduling
-- **Real-time KPI Monitoring**: Conversion rates, deal value, sales velocity
-- **Email Integration**: Gmail and Outlook integration for communication history
-- **Analytics & Reporting**: Sales metrics and performance analysis
-- **Team Collaboration**: Team pipeline views and coordination
-
-**Impact**:
-- 200+ active sales professionals
-- 40% improvement in deal closure rate
-- 50% reduction in follow-up time
-- $5M+ in tracked deal value
-
----
-
-### **5. Family Expense Management System**
-
-**Overview**: Multi-user financial management application enabling families to track shared expenses, manage multiple wallets, and visualize spending patterns with automated PDF receipt generation.
-
-**Tech Stack**: React, Firebase, Chart.js, Material UI  
-**Project Type**: Web Application  
-**Timeline**: 2 months | **Team**: 1 developer  
-**Status**: Production
-
-**Features**:
-- **Shared Wallets**: Multiple wallets for different spending categories
-- **Expense Tracking**: Detailed expense logs with categories and descriptions
-- **Income Management**: Income tracking and salary management
-- **Analytics Dashboard**: Visual spending patterns and expense analysis
-- **Budget Planning**: Budget creation and tracking against actuals
-- **Receipt Management**: Automated PDF receipt generation
-- **Multi-user Access**: Family members with role-based permissions
-- **Mobile Responsive**: Full mobile support for on-the-go expense entry
-
-**Impact**:
-- 1,000+ active users
-- $50M+ in tracked expenses
-- 95% user satisfaction rating
-
----
-
-### **6. Linear Cleaning System — Mechanical Design**
-
-**Overview**: Innovative mechanical concept for a recirculating high-pressure water cleaning system specifically designed for prosthetic liners and orthotic sleeves.
-
-**Technology**: SolidWorks, Mechanical Design  
-**Project Type**: Mechanical Engineering Concept  
-**Status**: Prototype Development
-
-**Key Features**:
-- **Recirculating Water System**: Efficient water reuse mechanism
-- **Filtration System**: Multi-stage filtration for water quality
-- **High-Pressure Jet**: Optimized pressure for effective cleaning
-- **Compact Design**: Space-efficient footprint for clinical use
-- **Cost-Effective**: Reduced water consumption vs. traditional methods
-- **Safety Features**: Pressure relief systems and emergency shut-off
-
-**Impact**:
-- 40% reduction in water usage
-- 50% cost savings vs. commercial systems
-- Improved cleaning efficiency
-
----
-
-### **7. Fusion 360 Technical CAD Work**
-
-**Overview**: Advanced mechanical CAD work demonstrating expertise in complex automotive engine component modeling and assembly.
-
-**Technology**: Fusion 360, CAD, Mechanical Design  
-**Project Type**: Technical Design  
-**Status**: Reference Portfolio
-
-**Components Designed**:
-- **Cylinder Head Modeling**: Complete 3D model with port geometry
-- **Valve Geometry**: Intake and exhaust valve design with optimal lift curves
-- **Intake & Exhaust Assemblies**: Complex manifold designs
-- **Camshaft Alignment**: Precision timing and valve train synchronization
-- **Mechanical Components**: Bearing surfaces, sealing surfaces, clearances
-
-**Deliverables**:
-- Technical drawings with GD&T
-- Assembly animations
-- Tolerance stackup analysis
-- Manufacturing specifications
-
----
-
-## 📈 GitHub Activity & Statistics
-
-### Current GitHub Stats
-
-- **Total Public Repositories**: [Check Profile](https://github.com/MuhammadArsalaN1)
-- **Followers**: [Check Profile](https://github.com/MuhammadArsalaN1)
-- **Following**: [Check Profile](https://github.com/MuhammadArsalaN1)
-- **Total Stars**: [Check Profile](https://github.com/MuhammadArsalaN1)
-- **Total Contributions**: [Check Profile](https://github.com/MuhammadArsalaN1)
-
-### Most-Used Languages
-
-- **JavaScript/TypeScript**: 35% of projects
-- **Python**: 20% of projects
-- **C#**: 15% of projects (Unity/Game Dev)
-- **Java**: 10% of projects
-- **SQL**: 20% of database work
-
-### Contribution Areas
-
-- **Web Development**: 40% (React, Node.js, full-stack)
-- **Backend Systems**: 25% (APIs, databases, cloud)
-- **Game/VR Development**: 15% (Unity, C#)
-- **DevOps & Cloud**: 10% (AWS, CI/CD)
-- **Data Science & ML**: 10% (Python, data analysis)
+## 📈 GitHub Growth & Activity
+
+### Profile Metrics
+- **Active repositories**: [View all](https://github.com/MuhammadArsalaN1?tab=repositories)
+- **Contribution graph**: [View activity](https://github.com/MuhammadArsalaN1)
+- **Followers & impact**: [Check profile](https://github.com/MuhammadArsalaN1)
+
+### Project Distribution
+- **Web Development**: 40%
+- **Backend Systems**: 25%
+- **Interactive (Unity/VR)**: 15%
+- **DevOps & Infrastructure**: 10%
+- **Data & ML**: 10%
+
+### Most-Used Technologies
+- JavaScript/TypeScript: 35%
+- Python: 20%
+- C#: 15%
+- Java: 10%
+- SQL & Database: 20%
 
 ### Recent Activity
-
-- 📦 Active contributor to 15+ projects
-- 🔄 Regular commits and updates
-- 🐛 Bug fixes and optimization
-- ✨ Feature development and enhancement
+- 🔄 Regular commits and updates across multiple projects
+- 🚀 Active feature development and optimization
+- 🐛 Bug fixes and technical improvements
 - 📚 Documentation and knowledge sharing
-
-### Repository Quality
-
-- ✓ Well-documented code
-- ✓ Comprehensive README files
-- ✓ Unit test coverage 70%+
-- ✓ CI/CD pipelines implemented
-- ✓ Regular maintenance and updates
+- 🔗 Open to collaboration and code reviews
 
 ---
 
-## 🎓 Education & Continuous Learning
+## 🎓 Expertise & Growth
 
-### Formal Education
+### Professional Certifications
+- **PMP® — Project Management Professional** (Jun 2026 – Jun 2029)
+- **AWS Certified Solutions Architect** (Jul 2026 – Jul 2029)
+- **AWS Certified CloudOps Engineer** (Jul 2026 – Jul 2029)
+- **AWS Certified Cloud Practitioner** (Jul 2026 – Jul 2029)
 
-**MS Data Science** — Muhammad Ali Jinnah University  
-*2026 – Present | In Progress*
-- Focus: Data-driven project planning, analytics, decision-making
-- Current coursework: Machine Learning, Statistical Analysis, Data Visualization
+### Education
+- **MS Data Science** — Muhammad Ali Jinnah University (In Progress)
+  - Focus: Data-driven decision-making, analytics, ML applications
+- **BS Software Engineering** — Muhammad Ali Jinnah University (2021–2025)
+  - GPA: 3.8/4.0
 
-**BS Software Engineering** — Muhammad Ali Jinnah University  
-*2021 – 2025*
-- GPA: 3.8/4.0
-- Major coursework: Full-stack development, cloud computing, database systems
-
-### Professional Development
-
-- **PMP® Training**: 35-hour formal training program
-- **AWS Architect Path**: Solutions Architecture fundamentals and best practices
-- **AI/ML Fundamentals**: Deep learning, neural networks, practical applications
-- **Advanced Agile**: SAFe, Kanban, scaled agile frameworks
-- **Technical Leadership**: Managing technical teams and projects
+### Continuous Learning
+- Advanced cloud architecture (AWS)
+- AI/ML integration in production systems
+- Scaled agile frameworks (SAFe)
+- Technical leadership and team development
 
 ---
 
-## 🌍 Languages & Communication
+## 🎯 Performance Metrics
 
-| Language | Proficiency |
+| Category | Achievement |
 |----------|-------------|
-| **English** | Professional (B2) |
-| **Urdu** | Native |
-| **German** | Basic (A1) |
-
-**Communication Skills**:
-- ✓ Cross-cultural communication (US, UK, EU, MENA)
-- ✓ Technical documentation writing
-- ✓ Stakeholder presentation skills
-- ✓ Client communication and negotiation
-- ✓ Team leadership and mentoring
+| **Projects Delivered** | 500+ (98% success rate) |
+| **Client Satisfaction** | 4.9/5.0 average rating |
+| **Budget Managed** | $5M+ |
+| **Team Coordination** | 50+ professionals led |
+| **Production Uptime** | 99.9%+ |
+| **Code Quality** | 70%+ test coverage |
+| **Deployment Frequency** | Weekly releases |
+| **Technical Domains** | 8+ (Web, Mobile, VR, AR, Cloud, 3D, Enterprise, Data) |
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🌍 Global Experience
 
-### Active Research & Development
-
-- 🤖 **AI & Machine Learning**: Integration of ML models into production applications
-- ☁️ **AWS Cloud Architecture**: Building scalable, serverless applications
-- 🎮 **Unity & Immersive Tech**: AR/VR applications and digital twin solutions
-- 📊 **Data Science**: Applying data-driven approaches to project management
-- 🏗️ **Enterprise Systems**: ERP and CRM platform development
-- 📈 **SaaS Products**: Building and scaling B2B and B2C SaaS solutions
-
-### Professional Goals (2026-2027)
-
-1. **Architectural Leadership**: Transition to Chief Technology Officer (CTO) role
-2. **Startup Venture**: Launch AI-driven project management SaaS
-3. **Research Publication**: Publish on data-driven project estimation
-4. **Team Leadership**: Build and mentor 20+ engineers
-5. **Industry Recognition**: Speaking engagements at tech conferences
+**International Clients**: US, UK, Europe, Middle East, Asia-Pacific  
+**Industries**: SaaS, VR/AR, Enterprise Software, Logistics, Agriculture, Healthcare, Manufacturing  
+**Languages**: English (Professional), Urdu (Native), German (Basic)  
 
 ---
 
-## 💡 Technical Approach & Philosophy
+## 📋 Professional Experience
 
-### Code Quality
+### Project Coordinator — IT Corp Inc
+*Karachi, Pakistan | Jan 2021 – Present*
 
-- **Best Practices**: SOLID principles, clean code, design patterns
-- **Testing**: Unit tests, integration tests, end-to-end tests (TDD)
-- **Performance**: Profiling, optimization, benchmarking
-- **Security**: OWASP top 10, secure coding, authentication/authorization
-- **Documentation**: Comprehensive code comments, README files, wikis
+Managing end-to-end delivery of concurrent software, VR/Unity, and enterprise projects. Led sprint planning, backlog prioritization, and team coordination for 40+ developers. Maintained project documentation, risk logs, and QA checkpoints.
 
-### Project Delivery
-
-- **Agile Excellence**: Sprint-based delivery, continuous improvement
-- **Risk Management**: Proactive identification, mitigation planning
-- **Quality Assurance**: Automated testing, manual QA, user acceptance testing
-- **Communication**: Daily stand-ups, weekly reviews, stakeholder updates
-- **Continuous Improvement**: Retrospectives, process optimization, lessons learned
-
-### Architecture & Design
-
-- **Scalability**: Microservices, cloud-native design, horizontal scaling
-- **Reliability**: High availability, disaster recovery, automated backups
-- **Maintainability**: Modular code, clear separation of concerns, comprehensive logging
-- **Performance**: Database optimization, caching strategies, CDN integration
-- **Security**: End-to-end encryption, role-based access, audit logging
+**Key Achievements:**
+- Delivered 50+ projects with 98% on-time completion
+- 25% improvement in delivery time through process optimization
+- $2M+ budget management with zero overruns
 
 ---
 
-## 📞 Get In Touch
+### Freelance Project Manager — International Clients
+*Remote | Sep 2019 – Present*
 
-I'm always interested in discussing:
+Managed 500+ client engagements across software development, 3D design, Unity/VR, and digital solutions for international clients (US, UK, EU, MENA, APAC).
 
-✓ **Technical Collaboration**: Full-stack development, architecture design, technical mentoring  
-✓ **Project Opportunities**: SaaS products, AR/VR solutions, enterprise systems, startups  
-✓ **Speaking Engagements**: Technical talks, project management workshops, leadership training  
-✓ **Consulting Services**: Technical scoping, architecture review, process optimization  
+**Key Achievements:**
+- 4.9/5.0 average client rating
+- $1M+ project value managed
+- 95%+ client retention rate
+- Built custom PM system (React + Firebase + Supabase)
 
-**Contact Methods**:
+---
 
+### Business Development Manager — HYBRIDS SOLUTION
+*Remote | Jul 2026 – Present*
+
+Driving B2B business development for Unity3D, AR/VR/MR development studio. Generating opportunities and managing client pipelines across manufacturing, healthcare, construction, and aviation.
+
+**Key Achievements:**
+- Established presence in 5 industry verticals
+- $500K+ qualified pipeline in Q1
+
+---
+
+### Backend Development Intern — XR Devs (DevXR)
+*Remote | Feb 2025 – Jun 2025*
+
+Built and maintained backend functionality and REST APIs with focus on production performance, security, and reliability.
+
+**Key Achievements:**
+- 40% improvement in API response time
+- Built 3 microservices handling 100K+ requests/day
+- Zero production incidents
+
+---
+
+### Operations Manager — Umason Logistic Inc
+*Karachi, Pakistan | Feb 2020 – Jan 2021*
+
+Managed daily operations for US-focused trucking and logistics company. Coordinated dispatch, route planning, and shipment scheduling.
+
+**Key Achievements:**
+- 30% reduction in delivery delays
+- 200+ shipments/week managed
+- 85% → 96% customer satisfaction improvement
+
+---
+
+## 🧲 Let's Connect
+
+**Building something interesting?**  
+I'm interested in collaborating on:
+
+✓ Full-stack SaaS products  
+✓ Cloud architecture & DevOps  
+✓ AR/VR & interactive technology  
+✓ Enterprise systems (ERP, CRM, HR)  
+✓ Technical leadership & mentoring  
+✓ Project management & team building  
+
+### Get In Touch
 - 📧 **Email**: [itcorpclaude@gmail.com](mailto:itcorpclaude@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/muhammadarsalan](https://linkedin.com/in/muhammadarsalan)
 - 🌐 **Portfolio**: [arsalanportfolio.com](https://arsalanportfolio.com)
@@ -604,40 +449,16 @@ I'm always interested in discussing:
 
 ---
 
-## 📋 Quick Facts
-
-| Aspect | Highlight |
-|--------|-----------|
-| **Experience** | 5+ years (PM, Engineering, Operations) |
-| **Projects Delivered** | 500+ client engagements (98% success rate) |
-| **Team Leadership** | Coordinated 50+ professionals |
-| **Budget Managed** | $5M+ across projects |
-| **Client Satisfaction** | 4.9/5.0 average rating |
-| **Technologies** | 40+ languages, frameworks, and tools |
-| **Certifications** | PMP, AWS (3x), AI/ML Fundamentals |
-| **Industries** | SaaS, VR/AR, Enterprise, Startups, Logistics |
-| **Geographic Reach** | US, UK, Europe, MENA, Asia-Pacific |
-| **Current Focus** | SaaS, AI/ML, Cloud Architecture, AR/VR |
-
----
-
 <div align="center">
 
-### Let's Build Something Amazing Together
+**Active engineer • Strategic thinker • Problem solver**
 
-I'm passionate about solving complex technical challenges and delivering high-impact projects. Whether you're looking for technical leadership, hands-on engineering, or project management expertise, let's connect.
+Turning ideas into impactful software and managing the journey from concept to production.
 
-**[Contact Me](mailto:itcorpclaude@gmail.com)** | **[View My Work](https://github.com/MuhammadArsalaN1)** | **[Learn More](https://arsalanportfolio.com)**
+[Explore My Work](https://github.com/MuhammadArsalaN1?tab=repositories) • [Get In Touch](mailto:itcorpclaude@gmail.com)
 
 ---
 
-<sub>
-  Last Updated: August 31, 2026 | 
-  💻 Full-Stack Engineer • PM • Technical Leader
-</sub>
+<sub>Last Updated: August 31, 2026 | Living Portfolio • Engineering Dashboard • Project Ecosystem</sub>
 
 </div>
-
-
-
-
