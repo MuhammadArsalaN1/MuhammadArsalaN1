@@ -1,166 +1,384 @@
-<!--
-  This is the ONLY file you should hand-edit for prose changes.
-  Everything between {{ }} is replaced by scripts/render-readme.mjs at
-  build time from data/config.json (static content) and
-  data/github-data.json (live GitHub data). Editing generated sections
-  directly in README.md is safe but temporary — the next Actions run
-  overwrites them from this template + the data files.
--->
-<div align="center">
+from pathlib import Path
 
-# Muhammad Arsalan
+readme = r'''# Muhammad Arsalan
 
-### Software Engineer & Project Coordinator building web, mobile, Unity/VR and management-system products.
+**Technology · Cloud · AI · Data Science · Unity · XR · Software · 3D Engineering**
 
-![](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-6366f1?style=for-the-badge) [![](https://img.shields.io/badge/LinkedIn-Muhammad%20Arsalan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarsalan111/) [![](https://img.shields.io/badge/Website-itcorpinc.com-111111?style=for-the-badge)](https://itcorpinc.com)
+Karachi, Pakistan · [LinkedIn](https://www.linkedin.com/in/muhammadarsalan111/) · [Email](mailto:YOUR_EMAIL)
 
-<sub>Auto-refreshed from live GitHub activity · last build 2026-08-31 21:45 UTC</sub>
-
-**[Open the interactive dashboard →](https://muhammadarsalan1.github.io/MuhammadArsalaN1/)**
-
-</div>
-
-<br/>
+---
 
 ## About
 
-I coordinate and ship software end to end — from sprint planning and backlog prioritization to the commits themselves. Day to day that means running delivery for VR/Unity, web and management-system projects at IT Corp Inc, and shipping client work across web, mobile and 3D/VR pipelines as a freelance project manager. This profile pulls directly from my GitHub activity below, so what you see is what I'm actually building right now.
+I build and contribute to technology products across **software engineering, cloud computing, artificial intelligence, data science, immersive technologies, game development, mobile applications, and 3D engineering**.
 
-<br/>
+My work combines software, interactive technology, product engineering, and technical problem solving — from SaaS applications and cloud-backed platforms to Unity-based VR/AR experiences, mobile games, industrial simulations, digital twins, and physical product concepts.
 
-## GitHub activity map
+| Area | Focus |
+|---|---|
+| Software Engineering | Custom applications, SaaS platforms, APIs, dashboards and digital products |
+| Web Development | React, JavaScript, TypeScript and modern web applications |
+| Mobile Development | React Native, Android and iOS applications |
+| Backend Development | Node.js, Python, REST APIs and application services |
+| Cloud Computing | AWS architecture, infrastructure and cloud operations |
+| Artificial Intelligence | Python-based AI, automation and intelligent applications |
+| Data Science | Data processing, analysis, modelling and experimentation |
+| Game Development | Unity, C#, 2D games, 3D games and mobile games |
+| Extended Reality | Virtual Reality, Augmented Reality and Mixed Reality |
+| Simulation | VR training, industrial simulation and digital-twin concepts |
+| 3D Engineering | Mechanical design, industrial design and CAD modelling |
+| Product Development | Consumer products, mechanical concepts and product engineering |
 
-<div align="center">
-<img src="./assets/neural-network.svg" alt="Skill-domain activity map for Muhammad Arsalan" width="100%"/>
-</div>
+---
 
-<sub>Each branch is a domain from my work — Software, Web, Mobile, Unity/Game, AR/VR/XR, 3D, Project Management, Cloud/AWS and Data/AI. Line weight and node size scale with how recently and how often I've actually pushed code in that area, recomputed on every build from the data below — nothing here is hand-tuned.</sub>
+## At a Glance
 
-<br/>
+<!-- GITHUB_STATS:START -->
 
-## At a glance
+| Metric | Value |
+|---|---:|
+| Public Repositories | Updating automatically |
+| Contributions | Updating automatically |
+| Pull Requests | Updating automatically |
+| Issues | Updating automatically |
+| Stars Earned | Updating automatically |
+| Followers | Updating automatically |
+| Active Repositories | Updating automatically |
+| Last GitHub Activity | Updating automatically |
 
-<div align="center">
+<!-- GITHUB_STATS:END -->
 
-![](https://img.shields.io/badge/Repositories-7-6366f1?style=for-the-badge) ![](https://img.shields.io/badge/Contributions%20(1y)-see%20dashboard-6366f1?style=for-the-badge) ![](https://img.shields.io/badge/Active%20projects%20(30d)-3-6366f1?style=for-the-badge) ![](https://img.shields.io/badge/Years%20experience-7%2B-6366f1?style=for-the-badge) ![](https://img.shields.io/badge/Client%20Engagements-500%2B-6366f1?style=for-the-badge) ![](https://img.shields.io/badge/Certifications-3-6366f1?style=for-the-badge) ![](https://img.shields.io/badge/Technologies-9-6366f1?style=for-the-badge) ![](https://img.shields.io/badge/PRs%20merged%20(30d)-3-6366f1?style=for-the-badge)
+---
 
-</div>
+## Currently Building
 
-<br/>
+<!-- CURRENTLY_BUILDING:START -->
 
-## Currently building
-
-<sub>Pulled straight from my public GitHub events — no summaries, no filler.</sub>
-
-| | Repository | Activity | When |
+| Repository | Focus | Primary Technology | Last Activity |
 |---|---|---|---|
-| ✓ | **Casino-VR** | PR #3 merged: feat/scripting → main | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/3) |
-| ⎇ | **Casino-VR** | PR #3 opened: feat/scripting → main | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/3) |
-| ⑂ | **Casino-VR** | Created branch feat/scripting | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/tree/feat/scripting) |
-| ⌥ | **Casino-VR** | Pushed to main | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/commits/main) |
-| ✓ | **Casino-VR** | PR #2 merged: XR package added | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/2) |
-| ⎇ | **Casino-VR** | PR #2 opened: XR package added | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/2) |
-| ⌥ | **Casino-VR** | Pushed to feat/vr-compatibility | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/commits/feat/vr-compatibility) |
-| ✓ | **Casino-VR** | PR #1 merged: feat/project-setup | [3 hours ago](https://github.com/MuhammadArsalaN1/Casino-VR/pull/1) |
+| Updating automatically | — | — | — |
 
-<br/>
+<!-- CURRENTLY_BUILDING:END -->
 
-## Contribution activity
+This section is generated from recent GitHub repository activity.
 
-<div align="center">
-<img src="./assets/activity.svg" alt="Recent GitHub activity: repo stats and a 21-day event sparkline" width="100%"/>
-</div>
+---
 
-<sub>Self-generated from the same GitHub API pull as everything else on this page — no third-party stats widget, so nothing here depends on an external service staying online.</sub>
+## Recent GitHub Activity
 
-<br/>
+<!-- RECENT_ACTIVITY:START -->
 
-## Languages & tech
+| Date | Activity | Repository |
+|---|---|---|
+| Updating automatically | — | — |
 
-<div align="center">
-<img src="./assets/languages.svg" alt="Language breakdown by bytes of code" width="80%"/>
-</div>
+<!-- RECENT_ACTIVITY:END -->
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%2523-178600?style=flat-square&logo=csharp&logoColor=white) ![Expo / React Native](https://img.shields.io/badge/Expo%20%2F%20React%20Native-000020?style=flat-square&logo=expo&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F58426?style=flat-square&logo=autodesk&logoColor=white)
+---
 
-<br/>
+## Active Repositories
 
-## Projects
+<!-- ACTIVE_REPOSITORIES:START -->
 
-Grouped by domain below. For live filtering, stars/forks, and click-through activity, use the **[interactive dashboard](https://muhammadarsalan1.github.io/MuhammadArsalaN1/)**.
+| Repository | Description | Language | Stars | Last Updated |
+|---|---|---|---:|---|
+| Updating automatically | — | — | — | — |
 
-### Web
+<!-- ACTIVE_REPOSITORIES:END -->
 
-| Project | Description | Language | Status | Updated |
-|---|---|---|---|---|
-| [HRMS](https://github.com/MuhammadArsalaN1/HRMS) | A modern, enterprise-grade Human Resource Management System (HRMS) built with React, TypeScript, Firebase, and Material UI. Employee… | TypeScript | 🟡 Maintained | 1 month ago |
+---
 
-### Mobile
+## Languages
 
-| Project | Description | Language | Status | Updated |
-|---|---|---|---|---|
-| [khataBook](https://github.com/MuhammadArsalaN1/khataBook) | Personal finance tracker with Expo React Native | TypeScript | 🟡 Maintained | 2 months ago |
+| Language | Primary Use |
+|---|---|
+| Python | AI, data science, automation and backend development |
+| JavaScript | Web applications and application development |
+| TypeScript | Modern web and application development |
+| C# | Unity, VR, AR, games and interactive applications |
+| SQL | Databases, querying and data analysis |
+| HTML | Web application structure |
+| CSS | Interfaces and frontend styling |
 
-### Unity
+---
 
-| Project | Description | Language | Status | Updated |
-|---|---|---|---|---|
-| [Casino-VR](https://github.com/MuhammadArsalaN1/Casino-VR) | Unity/VR project — recent work: XR package added, scripting, project setup | C# | 🟢 Active | 3 hours ago |
+## Technologies
 
-### 3D
+### Software Development
 
-| Project | Description | Language | Status | Updated |
-|---|---|---|---|---|
-| [Fusion360-Techincal-work](https://github.com/MuhammadArsalaN1/Fusion360-Techincal-work) | Fusion 360 cylinder-head project: reviewing files, establishing the 4.6" bore and valve geometry, completing intake/exhaust assemblies,… | — | 🟡 Maintained | 14 days ago |
+| Technology | Use |
+|---|---|
+| React | Web applications and frontend systems |
+| React Native | Cross-platform mobile applications |
+| Node.js | Backend applications and APIs |
+| Python | Backend, AI, automation and data science |
+| PostgreSQL | Relational databases |
+| REST APIs | Application and service integration |
+| Git | Version control |
+| GitHub | Source control, collaboration and automation |
 
-### Software
+### Cloud
 
-| Project | Description | Language | Status | Updated |
-|---|---|---|---|---|
-| [ERP-Goat-Management-system-](https://github.com/MuhammadArsalaN1/ERP-Goat-Management-system-) | ERP Goat Management System is a complete solution for managing goat farming operations including goat profiles, breeding, pregnancy… | — | ⚪ Dormant | 5 months ago |
+| Technology | Use |
+|---|---|
+| Amazon Web Services (AWS) | Cloud infrastructure and applications |
+| AWS Solutions Architecture | Cloud solution design |
+| AWS Cloud Operations | Infrastructure and operational workflows |
 
-### Other
+### Game & Immersive Development
 
-| Project | Description | Language | Status | Updated |
-|---|---|---|---|---|
-| [Linear-Cleaning-System](https://github.com/MuhammadArsalaN1/Linear-Cleaning-System) | Concept design for a recirculating high-pressure water cleaning system for prosthetic liners, orthotic sleeves, and similar medical… | — | 🟢 Active | 2 days ago |
+| Technology | Use |
+|---|---|
+| Unity | Games, VR, AR, MR and custom interactive applications |
+| C# | Unity application development |
+| 2D Development | Mobile and casual games |
+| 3D Development | Games and interactive applications |
+| VR | Training, simulation and immersive experiences |
+| AR | Mobile and interactive augmented-reality applications |
+| MR | Mixed-reality applications |
+| Digital Twins | Industrial visualization and simulation concepts |
 
-<br/>
+### AI & Data
 
-## Experience
+| Area | Focus |
+|---|---|
+| Artificial Intelligence | Python-based applications and experimentation |
+| Data Science | Analysis, modelling and data-driven development |
+| Data Analysis | Processing, transformation and interpretation |
+| Machine Learning | Applied modelling and experimentation |
+| Automation | Python-based workflows and automation |
 
-**Project Coordinator** — IT Corp Inc · Karachi, Pakistan · January 2021 — Present
-> Coordinate delivery across software, VR/Unity and management-system projects — owning the sprint from planning through QA sign-off. Sprint planning, backlog prioritization and task allocation across dev and design squads · Client communication and requirements translation for VR/Unity and web engagements · Developer/designer coordination, project documentation and risk management · QA checkpoints, resource planning and timeline management through delivery.
+### 3D Engineering & Product Design
 
-**Freelance Project Manager** — Fiverr · Remote · September 2019 — Present
-> 500+ client engagements spanning 3D jewelry design, Unity/VR and game development, and web applications. Managed 500+ freelance engagements end to end, from scoping to delivery · 3D jewelry design, Unity/VR and game development project delivery · Web application projects for international clients · Cross-timezone client communication and expectation management.
+| Technology / Area | Use |
+|---|---|
+| Fusion 360 | Mechanical, industrial and product design |
+| Rhinoceros | CAD and 3D modelling |
+| Gemvision Matrix | Jewelry and production-oriented CAD |
+| ZBrush | 3D modelling and sculpting |
+| Mechanical Design | Components, mechanisms and assemblies |
+| Industrial Design | Product concepts and industrial products |
+| Product Design | Consumer products and mechanical concepts |
+| 3D Modelling | Engineering, visualization and product development |
 
-<br/>
+---
+
+## What I Build
+
+| Category | Examples |
+|---|---|
+| SaaS Applications | Business platforms, dashboards and custom web products |
+| Web Applications | React-based applications and digital platforms |
+| Mobile Applications | React Native applications for Android and iOS |
+| Backend Systems | APIs, services and application backends |
+| AI Applications | AI-assisted and Python-based software solutions |
+| Data Solutions | Analysis, modelling and data-processing workflows |
+| Unity Applications | Custom Unity applications and interactive experiences |
+| 2D Games | Mobile, casual and custom game experiences |
+| 3D Games | Mobile and interactive 3D games |
+| VR Applications | Training, simulation, education and enterprise solutions |
+| AR Applications | Mobile and interactive augmented-reality solutions |
+| MR Applications | Mixed-reality experiences |
+| Digital Twins | Industrial visualization and simulation concepts |
+| Industrial Design | Mechanical and engineering-oriented 3D products |
+| Consumer Products | Product concepts, mechanisms and development |
+
+---
+
+## Development Areas
+
+### Software & SaaS
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React, JavaScript, TypeScript |
+| Mobile | React Native |
+| Backend | Node.js, Python |
+| Database | PostgreSQL, SQL |
+| Cloud | AWS |
+| Integration | REST APIs |
+| Version Control | Git, GitHub |
+
+### Unity, Games & XR
+
+| Area | Focus |
+|---|---|
+| Unity Applications | Custom interactive applications |
+| 2D Games | Mobile and casual gameplay |
+| 3D Games | Interactive 3D experiences |
+| Mobile Games | Android and iOS development |
+| Virtual Reality | Training, education and simulation |
+| Augmented Reality | Mobile and interactive AR |
+| Mixed Reality | Immersive hybrid experiences |
+| Simulation | Real-world workflow simulation |
+| Digital Twins | Industrial and operational visualization |
+
+### AI & Data Science
+
+| Area | Focus |
+|---|---|
+| Data Processing | Cleaning, transforming and structuring data |
+| Data Analysis | Exploration and interpretation |
+| Data Science | Modelling and experimentation |
+| Machine Learning | Applied ML workflows |
+| Artificial Intelligence | AI-based application concepts |
+| Automation | Python-based data and application workflows |
+
+### Industrial & Product Engineering
+
+| Area | Focus |
+|---|---|
+| Mechanical Design | Components, assemblies and mechanisms |
+| Industrial Design | Functional product concepts |
+| Consumer Products | Product development and mechanical concepts |
+| CAD | Engineering-focused 3D modelling |
+| Product Mechanisms | Sliding systems, caps, liners and mechanical assemblies |
+| Electronics Integration | Sensors, pumps, controls, timers and automation concepts |
+| Reliability | Simplification and reduction of unnecessary moving components |
+
+---
+
+## Selected Projects
+
+| Project | Domain | Description |
+|---|---|---|
+| [HRMS](https://github.com/MuhammadArsalaN1/HRMS) | Web | Enterprise human resource management system using React, TypeScript, Firebase and Material UI |
+| [khataBook](https://github.com/MuhammadArsalaN1/khataBook) | Mobile | Personal finance tracker built with Expo and React Native |
+| [Casino-VR](https://github.com/MuhammadArsalaN1/Casino-VR) | Unity / VR | Unity VR project involving XR integration, scripting and interactive development |
+| [Fusion360-Techincal-work](https://github.com/MuhammadArsalaN1/Fusion360-Techincal-work) | 3D Engineering | Fusion 360 engineering and mechanical design work |
+| [ERP-Goat-Management-system-](https://github.com/MuhammadArsalaN1/ERP-Goat-Management-system-) | Software | ERP-style management system for goat farming operations |
+| [Linear-Cleaning-System](https://github.com/MuhammadArsalaN1/Linear-Cleaning-System) | Product Engineering | Concept for a recirculating high-pressure water cleaning system |
+
+---
 
 ## Certifications
 
-<div align="center">
+| Certification | Issuer | Credential ID | Validity |
+|---|---|---|---|
+| Project Management Professional (PMP®) | Project Management Institute | `4420925` | Jun 2026 – Jun 2029 |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | `b4cf1e3cb25a434391099348f7c7527b` | Jul 2026 – Jul 2029 |
+| AWS Certified CloudOps Engineer – Associate | Amazon Web Services | `df8e221d0eac4dddbbf131951898fb20` | Jul 2026 – Jul 2029 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | `e2dadccb90364c6585d136dc71ab06ee` | Jul 2026 – Jul 2029 |
+| Artificial Intelligence Using Python | DigiSkills.pk / Ignite | `PATWXUGMK` | Issued Jul 2026 |
 
-[![](https://img.shields.io/badge/PMP-Project%20Management%20Institute%20(PMI)-0A66C2?style=for-the-badge&logo=projectmanagementinstitute&logoColor=white)](certificates/pmp-project-management-professional.pdf) [![](https://img.shields.io/badge/AWS%20Solutions%20Architect-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](certificates/aws-certified-solutions-architect-associate.pdf) [![](https://img.shields.io/badge/AWS%20CloudOps%20Engineer-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](certificates/aws-certified-cloudops-engineer-associate.pdf)
+### Verification
 
-</div>
+| Certification | Verification | Certificate |
+|---|---|---|
+| PMP® | [PMI Registry](https://www.pmi.org/certifications/certification-resources/registry) | [View PDF](certificates/pmp-project-management-professional.pdf) |
+| AWS Solutions Architect – Associate | [AWS Verification](https://aws.amazon.com/verification) | [View PDF](certificates/aws-certified-solutions-architect-associate.pdf) |
+| AWS CloudOps Engineer – Associate | [AWS Verification](https://aws.amazon.com/verification) | [View PDF](certificates/aws-certified-cloudops-engineer-associate.pdf) |
+| AWS Cloud Practitioner | [AWS Verification](https://aws.amazon.com/verification) | [View PDF](certificates/aws-certified-cloud-practitioner.pdf) |
+| Artificial Intelligence Using Python | [DigiSkills Verification](https://digiskills.pk/verify) | [View PDF](certificates/ai-using-python-digiskills.pdf) |
 
-| Credential | Issuer | ID | Validity | Links |
-|---|---|---|---|---|
-| Project Management Professional | Project Management Institute (PMI) | `4420925` | Jun 2026 – Jun 2029 | [Verify](https://www.pmi.org/certifications/certification-resources/registry) · [PDF](certificates/pmp-project-management-professional.pdf) |
-| AWS Certified Solutions Architect – Associate | Amazon Web Services | `b4cf1e3cb25a434391099348f7c7527b` | Jul 2026 – Jul 2029 | [Verify](https://aws.amazon.com/verification) · [PDF](certificates/aws-certified-solutions-architect-associate.pdf) |
-| AWS Certified CloudOps Engineer – Associate | Amazon Web Services | `df8e221d0eac4dddbbf131951898fb20` | Jul 2026 – Jul 2029 | [Verify](https://aws.amazon.com/verification) · [PDF](certificates/aws-certified-cloudops-engineer-associate.pdf) |
-| AWS Certified Cloud Practitioner | Amazon Web Services | `e2dadccb90364c6585d136dc71ab06ee` | Jul 2026 – Jul 2029 | [Verify](https://aws.amazon.com/verification) · [PDF](certificates/aws-certified-cloud-practitioner.pdf) |
-| Artificial Intelligence Using Python | DigiSkills.pk / Ignite — National Technology Fund | `PATWXUGMK` | Issued Jul 2026 | [Verify](https://digiskills.pk/verify) · [PDF](certificates/ai-using-python-digiskills.pdf) |
+---
 
-<sub>Each credential ID and validation link is copied verbatim from the issuer's certificate — the source PDFs live in <a href="./certificates">/certificates</a> in this repo.</sub>
+## Technical Focus
 
-<br/>
+| Area | Technologies / Concepts |
+|---|---|
+| Frontend | React, JavaScript, TypeScript, HTML, CSS |
+| Mobile | React Native |
+| Backend | Node.js, Python, REST APIs |
+| Databases | PostgreSQL, SQL |
+| Cloud | AWS |
+| AI & Data | Python, Data Science, Machine Learning, Data Analysis |
+| Game Development | Unity, C#, 2D, 3D, Mobile Games |
+| Immersive Technology | VR, AR, MR |
+| Simulation | Training Simulation, Industrial Simulation, Digital Twins |
+| Engineering | Fusion 360, Mechanical Design, Industrial Design |
+| 3D Design | Rhinoceros, Gemvision Matrix, ZBrush |
+| Product Development | Consumer Products, Engineering Products, Product Design |
+| Version Control | Git, GitHub |
 
-<div align="center">
+---
 
-**[LinkedIn](https://www.linkedin.com/in/muhammadarsalan111/)** · **[Website](https://itcorpinc.com)** · **[Interactive dashboard](https://muhammadarsalan1.github.io/MuhammadArsalaN1/)**
+## Current Interests
 
-<sub>This README is generated by <a href="./ARCHITECTURE.md">a small GitHub Actions pipeline</a>, not written by hand — see ARCHITECTURE.md for exactly how, and how to run it yourself.</sub>
+| Area | Direction |
+|---|---|
+| AI | Practical AI applications and intelligent automation |
+| Cloud | Scalable AWS architecture and cloud-native applications |
+| Data | Data-driven products and analytical systems |
+| XR | VR, AR and MR applications |
+| Unity | Games, training and simulation |
+| Digital Twins | Industrial visualization and interactive simulation |
+| SaaS | Scalable custom software platforms |
+| Mobile | Cross-platform applications |
+| Automation | Development and workflow automation |
+| 3D Engineering | Digital product engineering and CAD |
+| Product Development | Technology-enabled physical products |
 
-</div>
+---
+
+## Contribution Overview
+
+<!-- CONTRIBUTIONS:START -->
+
+| Period | Contributions |
+|---|---:|
+| Current Year | Updating automatically |
+| Previous Year | Updating automatically |
+| Recent Activity | Updating automatically |
+
+<!-- CONTRIBUTIONS:END -->
+
+---
+
+## Repository Languages
+
+<!-- REPOSITORY_LANGUAGES:START -->
+
+| Language | Repositories | Usage |
+|---|---:|---:|
+| Updating automatically | — | — |
+
+<!-- REPOSITORY_LANGUAGES:END -->
+
+---
+
+## Recent Projects
+
+<!-- RECENT_PROJECTS:START -->
+
+| Repository | Description | Technology | Updated |
+|---|---|---|---|
+| Updating automatically | — | — | — |
+
+<!-- RECENT_PROJECTS:END -->
+
+---
+
+## Development Principles
+
+| Principle | Approach |
+|---|---|
+| Build | Turn ideas into functional solutions |
+| Simplify | Reduce unnecessary technical and product complexity |
+| Automate | Remove repetitive work wherever practical |
+| Design | Balance functionality, usability and feasibility |
+| Integrate | Connect software, cloud, AI, XR and engineering |
+| Scale | Consider maintainability and scalability |
+| Experiment | Prototype and validate emerging technologies |
+| Learn | Continuously expand technical knowledge |
+| Solve | Apply technology to practical problems |
+
+---
+
+## Connect
+
+| Platform | Link |
+|---|---|
+| LinkedIn | [linkedin.com/in/muhammadarsalan111](https://www.linkedin.com/in/muhammadarsalan111/) |
+| Email | [Contact me](mailto:YOUR_EMAIL) |
+| GitHub | [github.com/MuhammadArsalaN1](https://github.com/MuhammadArsalaN1) |
+| Location | Karachi, Pakistan |
+
+---
+
+<sub>Software · Cloud · AI · Data Science · Unity · VR · AR · MR · SaaS · Mobile · Games · 3D Engineering · Product Development</sub>
+'''
+
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(path)
